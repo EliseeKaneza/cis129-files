@@ -1,6 +1,6 @@
 # Name: Elisee Kaneza
 # Date: [02/18/2025]
-# Program: Coffee Shop Receipt Calculator
+# Program: Coffee Shop Receipt 
 # Description: This program calculates the total cost of coffee and muffins, including tax.
 
 # Prices
